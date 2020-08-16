@@ -9,12 +9,15 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=zubairaziz alt=zubairaziz /> </p>
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=zubairaziz&show_icons=true&include_all_commits=true)](https://github.com/zubairaziz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairaziz&layout=compact)](https://github.com/zubairaziz/github-readme-stats)
+
 ### Work (TRAINOR) Profile
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=zubairabaziz alt=zubairabaziz /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=zubairaziz&show_icons=true&include_all_commits=true)](https://github.com/zubairaziz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairaziz&layout=compact)](https://github.com/zubairaziz/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=zubairabaziz&show_icons=true&include_all_commits=true)](https://github.com/zubairabaziz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairabaziz&layout=compact)](https://github.com/zubairabaziz/github-readme-stats)
 
 <!--
 **zubairaziz/zubairaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
