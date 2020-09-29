@@ -24,9 +24,8 @@ Check out my [work account](https://github.com/zubairabaziz/github-readme-stats)
 ---
 
 ## 🔭 I’m currently working on
+- Silverstripe Sign-In/Sign-Out App
 - Sam Schacht's Blog (Svelte/Sapper)
-- Coventya Watercare - COVID-19 Cleaners (Shopify, Tailwind, Webpack)
-
 
 ## 🌱 I’m currently learning
 - Svelte
