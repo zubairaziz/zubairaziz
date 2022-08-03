@@ -6,7 +6,7 @@
 
 ---
 
-Hi, I'm a full-stack developer from Malaysia, currently based in Utica, NY. I mostly build web projects in Javascript and/or PHP. Learn more about me at my [personal website](https://zubairaziz.com).
+Hi, I'm a full-stack developer from Kuala Lumpur, Malaysia. Learn more about me [here](https://www.zubairaziz.com).
 
 ---
 
@@ -22,17 +22,6 @@ Check out my [work account](https://github.com/zubairabaziz/github-readme-stats)
 
 
 ---
-
-## 🔭 I’m currently working on
-- Silverstripe Sign-In/Sign-Out App
-- Sam Schacht's Blog (Svelte/Sapper)
-
-## 🌱 I’m currently learning
-- Svelte
-- Sapper
-- Advanced Gatsby
-- Advanced GraphQL
-- Shopify
 
 ## 📫 Reach me at:
 - Email: [zubairaziz.dev@gmail.com](mailto:zubairaziz.dev@gmail.com)
